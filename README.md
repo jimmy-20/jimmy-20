@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hola, soy Jaso 👋
 
+Soy un estudiante que cursa su 2do ano de Ingenieria de Sistemas, me gusta intentar aprender
+algo nuevo dia a dia y sobretodo, aprovechar muy bien el tiempo para la construccion
+de un buen futuro profesional.
+
+## Lenguajes de programacion que manejo
+- Java
+- C#
+- CSS
+- HTML
+
+## Formas en como contactarme:
+- Facebook: https://www.facebook.com/jimmyalex.sozaortiz
+- Canal de YT: https://www.youtube.com/channel/UCHWpLKTk8w1rQoKhwfzneNA
+- Telefono: 7802-9756
 <!--
 **jimmy-20/jimmy-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
