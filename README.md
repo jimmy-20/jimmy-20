@@ -7,8 +7,9 @@ de un buen futuro profesional.
 ## Lenguajes de programacion que manejo
 - Java
 - C#
-- CSS
+## Programacion web
 - HTML
+- CSS
 
 ## Formas en como contactarme:
 - Facebook: https://www.facebook.com/jimmyalex.sozaortiz
