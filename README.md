@@ -1,6 +1,6 @@
 # Hola, soy Jaso 👋
 
-Soy un estudiante que cursa su 2do ano de Ingenieria de Sistemas, me gusta intentar aprender
+Soy un estudiante que cursa su tercer año de Ingenieria de Sistemas, me gusta aprender
 algo nuevo dia a dia y sobretodo, aprovechar muy bien el tiempo para la construccion
 de un buen futuro profesional.
 
@@ -10,6 +10,12 @@ de un buen futuro profesional.
 ## Programacion web
 - HTML
 - CSS
+
+## Frameworks
+- NET Core (Aplicaciones de escritorio y ASP.NET)
+
+## Gestor de Base de datos mas usado
+- SQL Server
 
 ## Formas en como contactarme:
 - Facebook: https://www.facebook.com/jimmyalex.sozaortiz
