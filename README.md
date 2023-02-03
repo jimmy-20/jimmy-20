@@ -1,18 +1,20 @@
 # Hola, soy Jaso 👋
 
-Soy un estudiante que cursa su tercer año de Ingenieria de Sistemas, me gusta aprender
+Soy un estudiante que cursa su cuarto año de Ingenieria de Sistemas, me gusta aprender
 algo nuevo dia a dia y sobretodo, aprovechar muy bien el tiempo para la construccion
 de un buen futuro profesional.
 
 ## Lenguajes de programacion que manejo
 - Java
 - C#
+
 ## Programacion web
-- HTML
+- Razor
 - CSS
 
 ## Frameworks
-- NET Core (Aplicaciones de escritorio y ASP.NET)
+- Bootstrap
+- Blazor(Server)
 
 ## Gestor de Base de datos mas usado
 - SQL Server
