@@ -1,4 +1,4 @@
-# Hola, soy Jaso 👋
+# Hola, soy Jaso 👋 (Pendiente de actualizar)
 
 Soy un estudiante que cursa su cuarto año de Ingenieria de Sistemas, me gusta aprender
 algo nuevo dia a dia y sobretodo, aprovechar muy bien el tiempo para la construccion
